@@ -46,7 +46,7 @@ function getNumber($length = 8)
 
 function sysInfo()
 {
-    $system['name'] = 'Postient';
+    $system['name'] = 'quickpost';
     $system['version'] = '1.0.0';
     $system['build_version'] = '1.0.5';
     $system['admin_version'] = '12.0.0';
