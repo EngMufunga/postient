@@ -1,0 +1,228 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner Section",
+        "content": {
+            "title": "text",
+            "heading": "text",
+            "subheading": "text",
+            "primary_button_text": "text",
+            "primary_button_url": "text",
+            "secondary_button_text": "text",
+            "secondary_button_url": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "150x150"
+                }
+            },
+            "modal": true
+        }
+    },
+    "banner_image": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner Image Section",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "610x655"
+                }
+            },
+            "modal": true
+        }
+    },
+    "feature": {
+        "builder": true,
+        "name": "Feature Section",
+        "content": {
+            "title": "text",
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "850x585"
+                }
+            },
+            "title": "text",
+            "description": "text",
+            "modal": true
+        }
+    },
+    "service": {
+        "builder": true,
+        "name": "Service Section",
+        "content": {
+            "title": "text",
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "title": "text",
+            "description": "textarea",
+            "icon": "icon",
+            "modal": true
+        }
+    },
+    "pricing": {
+        "builder": true,
+        "name": "Pricing Section",
+        "content": {
+            "title": "text",
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "cta": {
+        "builder": true,
+        "name": "CTA Section",
+        "content": {
+            "title": "text",
+            "heading": "text",
+            "subheading": "text",
+            "button_text": "text",
+            "button_url": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "150x150"
+                }
+            },
+            "modal": true
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial Section",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "300x300"
+                }
+            },
+            "review": "textarea",
+            "name": "text",
+            "designation": "text",
+            "modal": true
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "Faq Section",
+        "content": {
+            "title": "text",
+            "heading": "text",
+            "subheading": "text",
+            "button_text": "text",
+            "button_url": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea",
+            "modal": true
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "title": "text",
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images": {
+                "blog_image": {
+                    "size": "985x595",
+                    "thumb": "493x298"
+                }
+            },
+            "title": "text",
+            "description": "textarea-rich",
+            "blockquote": "textarea",
+            "modal": false
+        }
+    },
+    "why_us": {
+        "builder": true,
+        "name": "Why Choose Us",
+        "content": {
+            "title": "text",
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "title": "text",
+            "description": "textarea",
+            "icon": "icon",
+            "modal": true
+        }
+    },
+    "policy_pages": {
+        "builder": false,
+        "no_selection": true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-rich",
+            "modal": false
+        }
+    },
+    "subscribe": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Subscribe Section",
+        "content": {
+            "subheading": "text"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "title": "text",
+            "heading": "text",
+            "subheading": "text",
+            "short_details": "text",
+            "latitude": "text",
+            "longitude": "text",
+            "website_footer": "textarea-rich"
+        },
+        "element": {
+            "title": "text",
+            "value": "text",
+            "icon": "icon",
+            "modal": true
+        }
+    },
+    "authentication": {
+        "builder": true,
+        "name": "Authentication Section",
+        "content": {
+            "sign_in": "text",
+            "sign_up": "text"
+        },
+        "element": {
+            "heading": "text",
+            "description": "textarea",
+            "modal": true
+        }
+    }
+}
